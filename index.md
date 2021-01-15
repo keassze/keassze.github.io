@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown]https://gitlab.fangte.com/keass/keass.gitlab.io/raw/master/manifest.plist).
+For more details see [GitHub Flavored Markdown](https://gitlab.fangte.com/keass/keass.gitlab.io/raw/master/manifest.plist).
 
 ### Jekyll Themes
 
